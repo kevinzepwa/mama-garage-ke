@@ -24,6 +24,9 @@ h5,
 h6 {
   font-family: "Raleway", sans-serif;
 }
+ul {
+  list-style-type: none;
+}
 
 /*--------------------------------------------------------------
 # Back to top button
@@ -485,7 +488,7 @@ section {
 .breadcrumbs {
   margin-top: 73px;
   text-align: center;
-  background: #000;
+  background: rgb(39, 30, 30);
   padding: 30px 0;
   color: #fff;
 }
@@ -618,7 +621,7 @@ section {
 }
 .why-us .icon-boxes .icon-box p {
   font-size: 15px;
-  color: #848484;
+  color: #292929;
 }
 
 /*--------------------------------------------------------------
